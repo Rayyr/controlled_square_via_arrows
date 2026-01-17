@@ -18,6 +18,6 @@
 2. Open MARS , go to Tools bar then select the **Bitmap Display** & **keyboard and display MIMO simulator** .
 3. Set up the **Bitmap Dispaly** configs as mentioned in the code .<br/><br/><br/>
 
-## Trail video 
+## Trial video 
 https://github.com/user-attachments/assets/561189ee-98d6-4f4c-928e-2d0896a667e6
 

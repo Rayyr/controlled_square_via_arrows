@@ -10,6 +10,7 @@
 3. Text Segment
 4. Macros Definetion
 5. Handling the pressed key via Receiving Buffer of the keyboard<br/><br/><br/>
+6- Handling the cases of edge wrapping properly 
 
 ## To run it 
 ```

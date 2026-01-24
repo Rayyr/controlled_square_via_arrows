@@ -9,7 +9,7 @@
 2. Data Segment 
 3. Text Segment
 4. Macros Definetion
-5. Handling the pressed key via Receiving Buffer of the keyboard<br/><br/><br/>
+5. Handling the pressed key via Receiving Buffer of the keyboard
 6- Handling the cases of edge wrapping properly 
 
 ## To run it 
